@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Học Node.js cơ bản",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Cài đặt Express",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Tạo file JSON chứa dữ liệu",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "title": "Viết API GET để lấy danh sách",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Viết API POST để thêm việc mới",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Viết API PUT để cập nhật việc",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "title": "Viết API DELETE để xóa việc",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "title": "Test API bằng Postman",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "Đẩy code lên GitHub",
+    "completed": false
+  },
+  {
+    "id": 10,
+    "title": "Nghỉ ngơi uống cà phê",
+    "completed": false
+  }
+]
